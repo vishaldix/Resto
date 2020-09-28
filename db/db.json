@@ -1,0 +1,74 @@
+{
+  "login": [
+    {
+      "name": "vasant@kunj.com",
+      "password": "vasant"
+    },
+    {
+      "name": "jashvinder@babu.com",
+      "password": "jashvin@123"
+    },
+    {
+      "name": "kunal@kd.com",
+      "password": "professor"
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Mcdonalds",
+      "ratings": "3.8",
+      "address": "madiwala",
+      "email": "mc@d.com",
+      "id": 2
+    },
+    {
+      "name": "McImperial",
+      "ratings": "3.8",
+      "address": "mysuru",
+      "email": "mcimp@d.com",
+      "id": 3
+    },
+    {
+      "name": "burgerKing",
+      "ratings": "4.2",
+      "address": "Noida",
+      "email": "kingsp@d.com",
+      "id": 4
+    },
+    {
+      "name": "hydrabad biryani",
+      "ratings": "4.9",
+      "address": "hydrabad",
+      "email": "biranicircle@d.com",
+      "id": 5
+    },
+    {
+      "name": "Sanchi chulha",
+      "ratings": "4.6",
+      "address": "purnea",
+      "email": "chulha.sanchi@d.com",
+      "id": 7
+    },
+    {
+      "name": "aadarsh jalpan greeh",
+      "ratings": "4.2",
+      "address": "bhagalpur",
+      "email": "aadarsh@d.com",
+      "id": 9
+    },
+    {
+      "id": 8,
+      "name": "Bbq Nation",
+      "ratings": "5",
+      "address": "NH21",
+      "email": "barbq44@gmail.com"
+    },
+    {
+      "name": "dixit cooks",
+      "ratings": "5",
+      "address": "kadhagola",
+      "email": "hrsdixit06@gmail.com",
+      "id": 10
+    }
+  ]
+}
